@@ -8,7 +8,16 @@
 
 <h2 align="left">About me</h2>
 
-###
+<h2 align="left"></h2>
+
+
+<div align="left">
+  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/hector-seibel-489329260/)">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+</div>
+
+
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
