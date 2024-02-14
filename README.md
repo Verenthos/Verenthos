@@ -1,8 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Welcome to my github! </h1>
 
 ###
-
-<p align="left">A brazilian software developer striving and thriving!</p>
+<p align="left"><img src="path/to/brazilian_flag.jpg" alt="Brazilian Flag"> A brazilian software developer programming since 2022!</p>
 
 ###
 
