@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">A brazilian software developer striving and thriving!</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Javascript...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -52,10 +52,3 @@
 
 <img src="https://raw.githubusercontent.com/Verenthos/Verenthos/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="Linkedin"  />
-</div>
-
-###
