@@ -16,7 +16,7 @@
 
 
 
-<p align="left">✨ I'm currently learning Javascript and NodeJS...<br>🎯 Current Project: Barbershop Website</p>
+<p align="left">✨ I'm currently learning Javascript and ReactJS...<br>🎯 Current Project: Barbershop Website</p>
 
 ###
 
