@@ -16,16 +16,14 @@
 
 
 
-<p align="left">✨ I'm currently learning Javascript and ReactJS...<br>🎯 Current Project: Barbershop Website</p>
+<p align="left">✨ I'm currently learning Java...<br>🎯 Current Project: Barbershop Website (Python/Django)</p>
 
 ###
 <h2 align="left">Skills:</h2>
 <div align="left" style="display: flex; flex-wrap: wrap;">
   <!-- Upper line of skills -->
   <div style="margin-right: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="react logo" title="React" />
+    <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
     <img width="12" />
