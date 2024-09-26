@@ -16,7 +16,7 @@
 
 
 
-<p align="left">✨ I'm currently learning Java...<br>🎯 Current Project: Barbershop Website (Python/Django)</p>
+<p align="left">✨ I'm currently learning Javascript...<br>🎯 Current Project: Bookstore Website (JS/React)</p>
 
 ###
 <h2 align="left">Skills:</h2>
