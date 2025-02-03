@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 Welcome to my github! </h1>
 
 ###
-<p align="left"> A passioante software developer passionate about learning!!</p> 
+<p align="left"> A passionate software developer passionate about learning!!</p> 
 
 
 ###
@@ -23,6 +23,8 @@
 <div align="left" style="display: flex; flex-wrap: wrap;">
   <!-- Upper line of skills -->
   <div style="margin-right: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="Typescript" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" title="Django" />
