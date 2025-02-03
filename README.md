@@ -16,7 +16,7 @@
 
 
 
-<p align="left">✨ I'm currently learning Javascript...<br>🎯 Current Project: Bookstore Website (JS/React)</p>
+<p align="left"><br>🎯</p>
 
 ###
 <h2 align="left">Skills:</h2>
