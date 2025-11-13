@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 Welcome to my github! </h1>
 
 ###
-<p align="left"> A passionate software developer passionate about learning!!</p> 
+<p align="left"> A software developer passionate about learning!!</p> 
 
 
 ###
