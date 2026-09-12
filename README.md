@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 Welcome to my github! </h1>
 
 ###
-<p align="left"> A software developer passionate about learning!!</p> 
+<p align="left">Five years shipping software, the last two on a multi-chain NFT marketplace.</p>
 
 
 ###
@@ -10,7 +10,7 @@
 
 <div align="left">
    <a href="https://www.linkedin.com/in/hector-seibel-489329260/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="Linkedin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" title="LinkedIn" />
   </a>
 </div>
 
